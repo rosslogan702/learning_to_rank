@@ -17,7 +17,7 @@ Each approach has a sample implementation that was trained and tested against a 
 The dataset used is the Microsoft Learning to Rank 10K (MSLR-10K).
 https://www.microsoft.com/en-us/research/project/mslr/
 
-## Implementation
+## Models
 
 ## Evaluation Metrics
 
