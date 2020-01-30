@@ -22,3 +22,7 @@ https://www.microsoft.com/en-us/research/project/mslr/
 ## Evaluation Metrics
 
 ## Biases
+
+## References
+
+https://github.com/sophwats/learning-to-rank
